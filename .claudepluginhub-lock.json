@@ -60,6 +60,23 @@
       "agents": ["bim-agent", "acc-agent", "project-setup-agent"]
     },
     {
+      "installedAt": "2026-04-25T16:15:00Z",
+      "source": "amanbh997/claude-skills-for-computational-designers",
+      "installMode": "direct",
+      "skills": [
+        "cd-foundations", "parametric-modeling", "generative-design",
+        "computational-geometry", "algorithmic-patterns", "structural-computation",
+        "environmental-simulation", "facade-computation", "digital-fabrication",
+        "bim-scripting", "interoperability", "scripting-reference",
+        "optimization-methods", "data-driven-design", "mesh-processing",
+        "design-automation", "ml-for-aec", "cd-calculator"
+      ],
+      "assets": {
+        "scripts": "~/.claude/cd-calculator/scripts/",
+        "skills": "~/.claude/skills/"
+      }
+    },
+    {
       "installedAt": "2026-04-25T16:08:00Z",
       "source": "mgoodman60/foreman-os-plugin",
       "marketplace": "foreman-os-marketplace",
