@@ -58,6 +58,22 @@
         "workset-manager"
       ],
       "agents": ["bim-agent", "acc-agent", "project-setup-agent"]
+    },
+    {
+      "installedAt": "2026-04-25T16:08:00Z",
+      "source": "mgoodman60/foreman-os-plugin",
+      "marketplace": "foreman-os-marketplace",
+      "installMode": "plugin",
+      "scope": "user",
+      "plugins": [
+        { "name": "foremanos-core",        "version": "5.0.0" },
+        { "name": "foremanos-intel",       "version": "6.0.0" },
+        { "name": "foremanos-field",       "version": "5.0.0" },
+        { "name": "foremanos-planning",    "version": "5.0.0" },
+        { "name": "foremanos-doccontrol",  "version": "5.0.0" },
+        { "name": "foremanos-cost",        "version": "5.0.0" },
+        { "name": "foremanos-compliance",  "version": "5.0.0" }
+      ]
     }
   ]
 }
