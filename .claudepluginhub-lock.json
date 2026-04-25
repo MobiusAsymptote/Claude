@@ -38,6 +38,26 @@
       "installMode": "plugin",
       "scope": "project",
       "location": "~/.claude/plugins/cache/claude-skills/technical-specification/"
+    },
+    {
+      "installedAt": "2026-04-25T16:02:00Z",
+      "source": "utopia5327/claude-plugin-for-revit-bim",
+      "marketplace": "Utopia5327/revit-bim",
+      "plugin": "revit-bim",
+      "version": "1.0.0",
+      "installMode": "plugin",
+      "scope": "user",
+      "location": "~/.claude/plugins/cache/revit-bim/revit-bim/",
+      "skills": [
+        "acc-api-setup", "acc-coordinate", "acc-design-collaboration", "acc-docs",
+        "acc-reports", "analyze-rooms", "audit-model", "batch-rename-elements",
+        "clash-detection", "create-schedule", "create-view-filters", "export-dynamo-file",
+        "export-ifc", "export-to-excel", "generate-dynamo", "linked-model-check",
+        "manage-parameters", "manage-sheets", "manipulate-elements", "project-setup",
+        "query-model", "revit-api-code", "shared-parameters", "validate-parameters",
+        "workset-manager"
+      ],
+      "agents": ["bim-agent", "acc-agent", "project-setup-agent"]
     }
   ]
 }
