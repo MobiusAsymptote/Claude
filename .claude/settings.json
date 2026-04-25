@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-skills": {
+      "source": {
+        "source": "github",
+        "repo": "secondsky/claude-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "technical-specification@claude-skills": true
+  }
+}
