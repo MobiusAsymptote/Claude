@@ -1,0 +1,30 @@
+{
+  "version": "1",
+  "installedAt": "2026-04-25T15:52:00Z",
+  "source": "amanbh997/skills-architects",
+  "installMode": "direct",
+  "skills": [
+    "accessibility-design",
+    "acoustic-design",
+    "architect-calculator",
+    "architect-foundations",
+    "building-codes",
+    "building-envelope",
+    "building-programming",
+    "building-services",
+    "building-sustainability",
+    "building-typology",
+    "concept-design",
+    "construction-documentation",
+    "daylighting-design",
+    "design-theory",
+    "fire-life-safety",
+    "material-selection",
+    "spatial-planning",
+    "structural-systems"
+  ],
+  "assets": {
+    "scripts": "~/.claude/architect-calculator/scripts/",
+    "skills": "~/.claude/skills/"
+  }
+}
