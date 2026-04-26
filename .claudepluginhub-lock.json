@@ -77,6 +77,17 @@
       }
     },
     {
+      "installedAt": "2026-04-26T00:00:00Z",
+      "source": "local",
+      "installMode": "direct",
+      "skills": [
+        "njhmfa-lihtc-compliance"
+      ],
+      "assets": {
+        "skills": "~/.claude/skills/"
+      }
+    },
+    {
       "installedAt": "2026-04-25T16:08:00Z",
       "source": "mgoodman60/foreman-os-plugin",
       "marketplace": "foreman-os-marketplace",
