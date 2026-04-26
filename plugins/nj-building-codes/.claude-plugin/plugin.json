@@ -1,0 +1,38 @@
+{
+  "name": "nj-building-codes",
+  "description": "Comprehensive reference for New Jersey residential and affordable housing regulations: NJ UCC, UHAC, RSIS, COAH/Mount Laurel, NJHMFA developer requirements, Fair Housing Act design standards, HUD Section 504 accessibility, ADA, and ANSI A117.1. Use when designing, permitting, or reviewing NJ residential or affordable housing projects.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Claude Skills Maintainers",
+    "email": "maintainers@example.com"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/mobiusasymptote/claude",
+  "keywords": [
+    "nj-building-codes",
+    "new-jersey",
+    "affordable-housing",
+    "uhac",
+    "rsis",
+    "njucc",
+    "coah",
+    "mount-laurel",
+    "njhmfa",
+    "lihtc",
+    "fair-housing-act",
+    "fha-accessibility",
+    "section-504",
+    "ada",
+    "ansi-a117",
+    "accessibility",
+    "residential",
+    "inclusionary-zoning",
+    "deed-restriction",
+    "type-a-unit",
+    "type-b-unit",
+    "visitability",
+    "housing-permit",
+    "site-improvement",
+    "nj-dca"
+  ]
+}
