@@ -5,9 +5,24 @@
         "source": "github",
         "repo": "secondsky/claude-skills"
       }
+    },
+    "skills-for-architects": {
+      "source": {
+        "source": "github",
+        "repo": "AlpacaLabsLLC/skills-for-architects"
+      }
     }
   },
   "enabledPlugins": {
-    "technical-specification@claude-skills": true
+    "technical-specification@claude-skills": true,
+    "00-due-diligence@skills-for-architects": true,
+    "01-site-planning@skills-for-architects": true,
+    "02-zoning-analysis@skills-for-architects": true,
+    "03-programming@skills-for-architects": true,
+    "04-specifications@skills-for-architects": true,
+    "05-sustainability@skills-for-architects": true,
+    "06-materials-research@skills-for-architects": true,
+    "07-presentations@skills-for-architects": true,
+    "08-dispatcher@skills-for-architects": true
   }
 }
